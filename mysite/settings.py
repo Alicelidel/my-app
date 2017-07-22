@@ -25,7 +25,7 @@ SECRET_KEY = '($-oes*bx2f*4!towxu2a1c$*!q@imxdo#h_zt0%e__3l3$w9l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'http://formalin.pythonanywhere.com/']
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
